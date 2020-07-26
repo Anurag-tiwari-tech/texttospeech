@@ -1,0 +1,15 @@
+.heading{
+  height: auto;
+  width: auto;
+  background-color: lightgreen;
+}
+.body{
+  height: auto;
+  width: auto;
+  background-color: lightblue;
+}
+.note{
+  height: auto;
+  width: auto;
+  background-color: lightpink;
+}
